@@ -1,0 +1,89 @@
+Script started on 2022-04-12 19:19:03+05:30 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="94" LINES="46"]
+[0m[38;5;244m[49m[39m[27m[24m[K
+
+[2A7[0m[49m[39m[38;5;244m╭─[0m[38;5;244m[49m[30m [0m[30m[49m[39m[0m[49m[39m[0m[49m [0m[49m[38;5;31m [1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/BITS/3-2/NP/[1m[38;5;31m[38;5;39mnp-lab[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39massign-4[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m[30m [0m[30m[49m[39m[38;5;244m······················································[0m[38;5;244m[49m[39m[38;5;244m─╮
+[0m[38;5;244m[49m[39m[38;5;244m╰─[0m[38;5;244m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m                                                                                       [0m[38;5;244m[49m[39m[38;5;244m─╯[0m[38;5;244m[49m[39m[27m[24m[4C[?2004h[?25l8[0m[49m[39m[27m[24m[J[?7l[1m[31m  _____
+[31m /  __ \
+[31m|  /    |
+[31m|  \___-
+[31m-_
+[31m  --_
+[0m[6A[13C[36m[1m[35m[1mtanmay[1m@[35m[1mtanmay-G3[0m[38D[7C[34m[0m
+[13C[36m[1mos[0m[2D[7C[34mUbuntu 20.04.4 LTS[0m
+[13C[36m[1mhost[0m[4D[7C[34mG3 3590[0m
+[13C[36m[1mkernel[0m[6D[7C[34m5.4.0-86-generic[0m
+[13C[36m[1muptime[0m[6D[7C[34m33m[0m
+[13C[36m[1mpkgs[0m[4D[7C[34m3044[0m
+[13C[36m[1mmemory[0m[6D[7C[34m4168M / 7754M[0m
+
+[?7h]2;tanmay@tanmay-G3:~/BITS/3-2/NP/np-lab/assign-4]1;..-lab/assign-4[0m[38;5;31m[49m[39m[27m[24m[1m[7m%[27m[1m[0m                                                                                             [0m[49m[39m[27m[24m[K[0m[27m[24m[J[0m[38;5;244m[49m[39m
+[A[38;5;244m╭─[0m[38;5;244m[49m[30m [0m[30m[49m[39m[0m[49m[39m[0m[49m [0m[49m[38;5;31m [1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/BITS/3-2/NP/[1m[38;5;31m[38;5;39mnp-lab[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39massign-4[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;178m[0m[38;5;178m[49m[38;5;76m[0m[38;5;76m[49m[38;5;178m [38;5;76m master [38;5;178m!6 [38;5;39m?7[0m[38;5;39m[49m[38;5;178m[0m[38;5;178m[49m[30m [0m[30m[49m[39m[38;5;244m·····································[0m[38;5;244m[49m[39m[38;5;244m─╮
+[0m[38;5;244m[49m[39m[38;5;244m╰─[0m[38;5;244m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[87C[0m[49m[39m[38;5;244m─╯[39m[89D[?1h=[?12l[?25h[?2004h[1m[31mm[0m[39m[1m[31mm[1m[31ma[0m[39m[1m[31mm[1m[31ma[1m[31mk[0m[39m[0m[32mm[0m[32ma[0m[32mk[32me[39m[?1l>[?25l[?2004l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32mmake[39m[K[?12l[?25h
+]2;make]1;makegcc -Wall -pthread ./server.c -o s
+gcc -Wall ./client/client.c -o ./client/c
+[1m[7m%[27m[1m[0m                                                                                              ]2;tanmay@tanmay-G3:~/BITS/3-2/NP/np-lab/assign-4]1;..-lab/assign-4[0m[27m[24m[J[0m[38;5;244m[49m[39m
+[A[38;5;244m╭─[0m[38;5;244m[49m[30m [0m[30m[49m[39m[0m[49m[39m[0m[49m [0m[49m[38;5;31m [1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/BITS/3-2/NP/[1m[38;5;31m[38;5;39mnp-lab[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39massign-4[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;178m[0m[38;5;178m[49m[38;5;76m[0m[38;5;76m[49m[38;5;178m [38;5;76m master [38;5;178m!6 [38;5;39m?7[0m[38;5;39m[49m[38;5;178m[0m[38;5;178m[49m[30m [0m[30m[49m[39m[38;5;244m·····································[0m[38;5;244m[49m[39m[38;5;244m─╮
+[0m[38;5;244m[49m[39m[38;5;244m╰─[0m[38;5;244m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[87C[0m[49m[39m[38;5;244m─╯[39m[89D[?1h=[?2004h[32m.[39m[4m[32m.[4m[32m/[24m[39m[24m[32m.[24m[32m/[32ms[39m[?1l>[?25l[?2004l[A[0m[27m[24m[J[0m[49m[27m[24m[38;5;76m❯[0m[38;5;76m[49m[39m[27m[24m [32m./s[39m[K[?12l[?25h
+]2;./s]1;./s[info] Interface no. 0 : lo	address: 127.0.0.1
+[info] Interface no. 1 : enp3s0	address: 10.4.19.67
+[info] Interface no. 2 : wlp4s0	address: 10.42.0.1
+[info] Interface no. 3 : virbr0	address: 192.168.122.1
+[action] please type the interface number you wish to use: 1
+[info] selecting the interface  no. 1 : enp3s0
+	address: 10.4.19.67
+[info] using the ip: 10.4.19.67
+[info] attempt to bind to: 10.4.19.67
+[success] bound to (ip:port) 10.4.19.67:4444
+[info] waiting for new client, current count: 0
+[info] rcvd_client, client fd: 4
+[info] checking if lim of 5 reached, current count is 0
+[info] waiting for new client, current count: 1
+	[info] waiting for msg from tid #20572
+	[info]C, tid #20572 requested: server.c
+[info] filesize: 7184
+[info] file perms: 664
+[info] 7184 chunks	[info] waiting for msg from tid #20572
+[info] rcvd_client, client fd: 5
+[info] checking if lim of 5 reached, current count is 1
+[info] waiting for new client, current count: 2
+	[info] waiting for msg from tid #20610
+[info] rcvd_client, client fd: 6
+[info] checking if lim of 5 reached, current count is 2
+[info] waiting for new client, current count: 3
+	[info] waiting for msg from tid #20621
+[info] rcvd_client, client fd: 7
+[info] checking if lim of 5 reached, current count is 3
+[info] waiting for new client, current count: 4
+	[info] waiting for msg from tid #20623
+[info] rcvd_client, client fd: 8
+[info] checking if lim of 5 reached, current count is 4
+[info] waiting for new client, current count: 5
+	[info] waiting for msg from tid #20643
+[info] rcvd_client, client fd: 9
+[info] checking if lim of 5 reached, current count is 5
+[warining] REJECTED, max clients
+[info] waiting for new client, current count: 5
+	[info] exiting, from tid #20572
+[info] rcvd_client, client fd: 9
+[info] checking if lim of 5 reached, current count is 4
+[info] waiting for new client, current count: 5
+	[info] waiting for msg from tid #20748
+	[info]C, tid #20748 requested: s
+[info] filesize: 22664
+[info] file perms: 775
+[info] 22664 chunks	[info] waiting for msg from tid #20748
+	[info] exiting, from tid #20748
+	[info]C, tid #20610 requested: a.out
+[info] filesize: 16696
+[info] file perms: 775
+[info] 16696 chunks	[info] waiting for msg from tid #20610
+	[info] exiting, from tid #20610
+	[info] exiting, from tid #20621
+	[info] exiting, from tid #20623
+	[info] exiting, from tid #20643
+^C[info] Received  SIGINT, closing socket
+[1m[7m%[27m[1m[0m                                                                                              ]2;tanmay@tanmay-G3:~/BITS/3-2/NP/np-lab/assign-4]1;..-lab/assign-4[0m[27m[24m[J[0m[38;5;244m[49m[39m
+[A[38;5;244m╭─[0m[38;5;244m[49m[30m [0m[30m[49m[39m[0m[49m[39m[0m[49m [0m[49m[38;5;31m [1m[38;5;31m[38;5;39m~[0m[38;5;39m[49m[38;5;31m/BITS/3-2/NP/[1m[38;5;31m[38;5;39mnp-lab[0m[38;5;39m[49m[38;5;31m/[1m[38;5;31m[38;5;39massign-4[0m[38;5;39m[49m[38;5;31m[0m[38;5;31m[49m[38;5;31m[0m[38;5;31m[49m [0m[38;5;31m[49m[38;5;178m[0m[38;5;178m[49m[38;5;76m[0m[38;5;76m[49m[38;5;178m [38;5;76m master [38;5;178m!6 [38;5;39m?7[0m[38;5;39m[49m[38;5;178m[0m[38;5;178m[49m[30m [0m[30m[49m[39m[38;5;244m···························[0m[38;5;244m[49m[30m [0m[30m[49m[38;5;101m 1m 51s[0m[38;5;101m[49m[38;5;101m[0m[38;5;101m[49m[38;5;101m[49m[30m [0m[30m[49m[38;5;101m[0m[38;5;101m[49m[39m[38;5;244m─╮
+[0m[38;5;244m[49m[39m[38;5;244m╰─[0m[38;5;244m[49m[38;5;76m❯[0m[38;5;76m[49m[38;5;76m[0m[38;5;76m[49m[30m[0m[30m[49m[39m [0m[49m[39m[K[87C[0m[49m[39m[38;5;244m─╯[39m[89D[?1h=[?2004h[?2004l
+
+Script done on 2022-04-12 19:21:02+05:30 [COMMAND_EXIT_CODE="0"]
